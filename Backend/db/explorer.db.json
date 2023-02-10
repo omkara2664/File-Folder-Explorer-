@@ -1,0 +1,69 @@
+{
+    "name": "root",
+    "isFolder": true,
+    "items": [
+        {
+            "_id": "2",
+            "name": "public",
+            "isFolder": true,
+            "items": [
+                {
+                    "_id": "3",
+                    "name": "public nested 1",
+                    "isFolder": true,
+                    "items": [
+                        {
+                            "_id": "4",
+                            "name": "index.html",
+                            "isFolder": false,
+                            "items": []
+                        },
+                        {
+                            "_id": "5",
+                            "name": "hello.html",
+                            "isFolder": false,
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "_id": "6",
+                    "name": "public_nested_file",
+                    "isFolder": false,
+                    "items": []
+                }
+            ]
+        },
+        {
+            "_id": "7",
+            "name": "src",
+            "isFolder": true,
+            "items": [
+                {
+                    "_id": "8",
+                    "name": "App.js",
+                    "isFolder": false,
+                    "items": []
+                },
+                {
+                    "_id": "9",
+                    "name": "Index.js",
+                    "isFolder": false,
+                    "items": []
+                },
+                {
+                    "_id": "10",
+                    "name": "styles.css",
+                    "isFolder": false,
+                    "items": []
+                }
+            ]
+        },
+        {
+            "_id": "11",
+            "name": "package.json",
+            "isFolder": false,
+            "items": []
+        }
+    ]
+}
